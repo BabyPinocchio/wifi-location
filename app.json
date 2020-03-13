@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/location/location"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "室内定位",
+    "navigationBarTextStyle":"black"
+  }
+}
